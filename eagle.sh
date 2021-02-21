@@ -29,7 +29,7 @@ echo ""
 }
 
 banner
-sleep 0.4
+sleep 0.2
 echo -e "            \033[91mModules available : \033[93m16"
 echo ""
 echo -e "\033[93m[+] \033[92mDark Eagle Modules\033[33m"
