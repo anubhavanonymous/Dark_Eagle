@@ -4,7 +4,7 @@ echo ""
 apt update && apt upgrade -y
 apt install figlet -y
 apt install python2 -y
-apt install python3 -y
+apt install python -y
 figlet -f Installing..
 apt install toilet
 apt install wget -y
