@@ -4,22 +4,22 @@
 
 ## Features !
 
-[01]  DNS Lookup</br>
-[02]  Reverse DNS Lookup</br>
-[03]  IP Locator</br>
-[04]  Subnet Lookup</br>
-[05]  Whois Lookup</br>
-[06]  Host Provider Lookup</br>
-[07]  Port Scanner</br>
-[08]  Page Link Finder</br>
-[09]  Traceroute</br>
-[10]  HTTP Header</br>
-[11]  SQLI Scanner</br>
-[12]  DDOS Attack</br>
-[13]  Subdomain Finder</br>
-[14]  Slowloris Attack</br>
-[15]  Admin Page Finder</br>
-[16]  Robots Finder</br>
+01.  DNS Lookup</br>
+02.  Reverse DNS Lookup</br>
+03.  IP Locator</br>
+04.  Subnet Lookup</br>
+05.  Whois Lookup</br>
+06.  Host Provider Lookup</br>
+07.  Port Scanner</br>
+08.  Page Link Finder</br>
+09.  Traceroute</br>
+10.  HTTP Header</br>
+11.  SQLI Scanner</br>
+12.  DDOS Attack</br>
+13.  Subdomain Finder</br>
+14.  Slowloris Attack</br>
+15.  Admin Page Finder</br>
+16.  Robots Finder</br>
 
 ## Disclaimer
 *This tool is for educational purposes only !*
