@@ -4,7 +4,7 @@
 
 ## Features !
 
-[01] DNS Lookup
+[01] DNS Lookup</br>
 [02] Reverse DNS Lookup
 [03] IP Locator
 [04] Subnet Lookup
