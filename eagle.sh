@@ -98,6 +98,7 @@ echo ""
 elif [ $num -eq 5 ];then
 echo ""
 echo -e $'\e[1;33m[\e[0m\e[1;77m Dark Eagle \e[0m\e[1;33m]\e[0m\e[32m Input target below'
+echo "ex - youtube.com"
 read -p ">>> " t
 echo ""
 echo -e "\e[91mLOOKUP STARTED"
