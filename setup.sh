@@ -4,6 +4,7 @@ echo ""
 apt update && apt upgrade -y
 apt install figlet -y
 apt install python2 -y
+apt install whois -y
 apt install python -y
 figlet -c -f slant Installing..
 apt install toilet
